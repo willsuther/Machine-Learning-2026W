@@ -9,7 +9,7 @@ A collection of applied machine learning notebooks covering supervised learning,
 | # | Notebook | Topics | Dataset |
 |---|---|---|---|
 | 1 | [Credit Card Default: EDA & Classification](01_credit_default_classification.ipynb) | EDA · sklearn Pipelines · Random Forest · KNN · GridSearchCV · ROC-AUC · Threshold Selection | UCI Credit Card Default (30K records) |
-| 2 | [Electricity Demand Clustering](02_electricity_demand_clustering.ipynb) | Time-Series Feature Engineering · K-Means · Agglomerative Clustering · Elbow Method · Silhouette Score | UCI ElectricityLoadDiagrams 2011–2014 (370 clients) |
+| 2 | [Electricity Demand Clustering](02_electricity_demand_clustering.ipynb) | Time-Series Feature Engineering · K-Means · Agglomerative Clustering · Elbow Method · Silhouette Score | UCI ElectricityLoadDiagrams 2011-2014 (370 clients) |
 | 3 | [Dimensionality Reduction on MNIST](03_dimensionality_reduction_mnist.ipynb) | PCA · t-SNE · Locally Linear Embedding · Trustworthiness · Runtime Analysis | MNIST (70K images, 784 features) |
 | 4 | [Decision Trees & Ensemble Methods](04_decision_trees_ensembles.ipynb) | Decision Trees · RandomizedSearchCV · Random Forest · AdaBoost · Extra Trees · Gradient Boosting · Learning Curves | UCI Credit Card Default (30K records) |
 
